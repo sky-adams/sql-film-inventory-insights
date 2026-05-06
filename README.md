@@ -1,11 +1,11 @@
 # Advanced SQL Analytics: Film Inventory & Customer Insights
 
 ## Description
-I did this project as part of Udacity's Programming for Data Science with Python nanodegree. Despite the name, much of the nanodegree was focused on SQL. 
-
 This project demonstrates my ability to write complex SQL queries using joins, common table expressions (CTEs), window functions, and aggregation to explore a relational database and uncover insights.
 
 The dataset used was a fictional movie rental database provided by Udacity. Although the data is synthetic, it’s modeled after a real-world rental system and includes tables for films, inventory, rentals, stores, actors, and customers.
+
+I did this project as part of Udacity's Programming for Data Science with Python nanodegree. Despite the name, much of the nanodegree was focused on SQL. 
 
 ## Files
 queries.txt: Contains the queries I wrote for the project. I wrote the queries to answer the questions I wrote in the slides.
