@@ -1,4 +1,4 @@
-# Udacity-Project-Investigate-a-Relational-Database
+# Advanced SQL Analytics: Film Inventory & Customer Insights
 
 ## Description
 I did this project as part of Udacity's Programming for Data Science with Python nanodegree. Despite the name, much of the nanodegree was focused on SQL. 
